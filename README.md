@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Weeknotes from the UKCEH RSE Group in Environmental Data Science"
+permalink: /weeknotes
+---
+
 # weeknotes
 
 Occasional updates from members of the UKCEH RSE team in weeknotes format

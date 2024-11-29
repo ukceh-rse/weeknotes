@@ -1,6 +1,7 @@
 ---
 title: RSE Introductions in Wallingford
 date: 26-11-2024
+layout: post
 ---
 
 # RSE Introductions in Wallingford
